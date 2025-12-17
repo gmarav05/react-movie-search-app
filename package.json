@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://username.github.io/react-movie-search-app",
+  "homepage": "https://gmarav05.github.io/react-movie-search-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
