@@ -10,6 +10,10 @@ This project was created to practice API integration, state management, and comp
 ## Video
 
 
+https://github.com/user-attachments/assets/5c795bae-e937-4e9b-8e09-7276fac0cf1b
+
+
+
 
 ## Image
 
