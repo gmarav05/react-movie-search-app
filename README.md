@@ -10,6 +10,7 @@ This project was created to practice API integration, state management, and comp
 ## Video
 
 
+
 ## Image
 
 ![](./image.png)
